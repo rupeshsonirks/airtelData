@@ -3,7 +3,7 @@
 # Script to display Airtel Broadband usage statistics
 #
 # @author: Sreejith K <sreejithemk@gmail.com>
-# Created On Jan 21 2013
+# Created On Jan 21 201
 
 
 import sys
